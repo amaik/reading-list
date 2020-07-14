@@ -13,6 +13,9 @@ A summary of resources regarding language modeling.
 - [ ] Blog - GPT2 - https://openai.com/blog/better-language-models/
 - [ ] Blog - The illustrated GPT2 - http://jalammar.github.io/illustrated-gpt2/
 
+## Corpora
+- [ ] Paper - BooksCorpus - https://arxiv.org/abs/1506.06724
+
 ## Tokenization
 ### Subword modelling
 - [ ] Blog - Various algorithms - https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46
