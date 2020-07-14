@@ -5,7 +5,7 @@ A summary of resources regarding language modeling.
 ### Transformer
 - [x] Paper - Attention is all you need - https://arxiv.org/abs/1706.03762  
 - [ ] Blog - The annotated transformer - https://nlp.seas.harvard.edu/2018/04/03/attention.html
-- [ ] Paper - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding - https://arxiv.org/abs/1810.04805
+- [x] Paper - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding - https://arxiv.org/abs/1810.04805
 - [ ] Blog - Visualized Bert/Elmo - http://jalammar.github.io/illustrated-bert/
 - [ ] Blog - BERT First time - http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
 
