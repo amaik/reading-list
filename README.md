@@ -5,9 +5,11 @@ A summary of resources regarding language modeling.
 ### Transformer
 - [x] Paper - Attention is all you need - https://arxiv.org/abs/1706.03762  
 - [ ] Blog - The annotated transformer - https://nlp.seas.harvard.edu/2018/04/03/attention.html
+- [ ] Blog - The illustrated transformer - https://jalammar.github.io/illustrated-transformer/
 - [x] Paper - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding - https://arxiv.org/abs/1810.04805
-- [ ] Blog - Visualized Bert/Elmo - http://jalammar.github.io/illustrated-bert/
+- [x] Blog - Visualized Bert/Elmo - http://jalammar.github.io/illustrated-bert/
 - [ ] Blog - BERT First time - http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
+- [ ] Notebook - Bert end-to-end - fine tuning - https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb#scrollTo=7wzwke0sxS6W
 
 ### GPT2/3
 - [ ] Paper - GPT2 - https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
