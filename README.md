@@ -30,6 +30,7 @@ A summary of resources regarding language modeling.
 ## Machine Learning - General
 - [ ] Paper - Convolutional s2s models(learned positional embeddings) - https://arxiv.org/abs/1705.03122
 - [ ] Paper - Layer normalization - https://arxiv.org/abs/1607.06450
+- [ ] Paper - Adam: A Method for Stochastic Optimization - https://arxiv.org/abs/1412.6980
 
 
 ## Misc
