@@ -9,7 +9,7 @@ A summary of resources regarding language modeling.
 - [x] Paper - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding - https://arxiv.org/abs/1810.04805
 - [x] Blog - Visualized Bert/Elmo - http://jalammar.github.io/illustrated-bert/
 - [ ] Blog - BERT First time - http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
-- [ ] Notebook - Bert end-to-end - fine tuning - https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb#scrollTo=7wzwke0sxS6W
+- [ ] Notebook - Bert end-to-end - fine tuning - [link](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb#scrollTo=7wzwke0sxS6W)
 - [ ] Paper - Music Transformer - https://arxiv.org/pdf/1809.04281.pdf
 - [ ] Paper - TransformerXL - https://arxiv.org/abs/1901.02860
 - [ ] Paper - XLNet - https://arxiv.org/abs/1906.08237
@@ -39,7 +39,7 @@ A summary of resources regarding language modeling.
 
 ## Text Summarization
 - [ ] Paper - Sample Efficient Text Summarization Using a Single Pre-Trained Transformer
- - https://arxiv.org/abs/1905.08836
+ - [link](https://arxiv.org/abs/1905.08836)
 
 
 ## Misc
