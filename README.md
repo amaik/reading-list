@@ -23,6 +23,8 @@ A summary of resources regarding language modeling.
 ## Tokenization
 ### Subword modelling
 - [ ] Blog - Various algorithms - https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46
+- [ ] Paper - Byte-pair representation - https://arxiv.org/abs/1508.07909
+- [ ] Paper - Word-piece representation - https://arxiv.org/abs/1609.08144
 
 
 ## Machine Learning - General
