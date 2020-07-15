@@ -26,6 +26,7 @@ A summary of resources regarding language modeling.
 
 
 ## Machine Learning - General
+- [ ] Paper - Convolutional s2s models(learned positional embeddings) - https://arxiv.org/abs/1705.03122
 - [ ] Paper - Layer normalization - https://arxiv.org/abs/1607.06450
 
 
