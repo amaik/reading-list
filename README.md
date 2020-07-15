@@ -18,7 +18,7 @@ A summary of resources regarding language modeling.
 - [ ] Paper - GPT2 - https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
 - [ ] Paper - GPT3 - https://arxiv.org/abs/2005.14165
 - [ ] Blog - GPT2 - https://openai.com/blog/better-language-models/
-- [ ] Blog - The illustrated GPT2 - http://jalammar.github.io/illustrated-gpt2/
+- [x] Blog - The illustrated GPT2 - http://jalammar.github.io/illustrated-gpt2/
 
 ## Corpora
 - [ ] Paper - BooksCorpus - https://arxiv.org/abs/1506.06724
