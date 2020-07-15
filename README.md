@@ -25,5 +25,9 @@ A summary of resources regarding language modeling.
 - [ ] Blog - Various algorithms - https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46
 
 
+## Machine Learning - General
+- [ ] Paper - Layer normalization - https://arxiv.org/abs/1607.06450
+
+
 ## Misc
 - [x] Website - Summary of papers with code. Leaderboard of benchmarks. - https://paperswithcode.com/task/language-modelling
