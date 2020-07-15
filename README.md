@@ -38,8 +38,7 @@ A summary of resources regarding language modeling.
 - [ ] Paper - Label smoothing - https://arxiv.org/abs/1512.00567
 
 ## Text Summarization
-- [ ] Paper - Sample Efficient Text Summarization Using a Single Pre-Trained Transformer
- - [link](https://arxiv.org/abs/1905.08836)
+- [ ] Paper - Sample Efficient Text Summarization Using a Single Pre-Trained Transformer - [link](https://arxiv.org/abs/1905.08836)
 
 
 ## Misc
