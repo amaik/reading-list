@@ -10,6 +10,7 @@ A summary of resources regarding language modeling.
 - [x] Blog - Visualized Bert/Elmo - http://jalammar.github.io/illustrated-bert/
 - [ ] Blog - BERT First time - http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
 - [ ] Notebook - Bert end-to-end - fine tuning - https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb#scrollTo=7wzwke0sxS6W
+- [ ] Paper - Music Transformer - https://arxiv.org/pdf/1809.04281.pdf
 
 ### GPT2/3
 - [ ] Paper - GPT2 - https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
