@@ -36,6 +36,7 @@ A summary of resources regarding language modeling.
 - [ ] Paper - Adam: A Method for Stochastic Optimization - https://arxiv.org/abs/1412.6980
 - [ ] Paper - Dropout - http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf
 - [ ] Paper - Label smoothing - https://arxiv.org/abs/1512.00567
+- [ ] Paper - One model to learn them all (Task conditioning) - https://arxiv.org/abs/1706.05137
 
 ## Text Summarization
 - [ ] Paper - Sample Efficient Text Summarization Using a Single Pre-Trained Transformer - [link](https://arxiv.org/abs/1905.08836)
