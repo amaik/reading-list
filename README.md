@@ -17,7 +17,7 @@ A summary of resources regarding language modeling.
 
 ### GPT2/3
 - [ ] Paper - GPT1 - https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
-- [ ] Paper - GPT2 - https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
+- [x] Paper - GPT2 - https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
 - [ ] Paper - GPT3 - https://arxiv.org/abs/2005.14165
 - [ ] Blog - GPT1 - https://openai.com/blog/language-unsupervised/
 - [ ] Blog - GPT2 - https://openai.com/blog/better-language-models/
