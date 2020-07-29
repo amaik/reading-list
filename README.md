@@ -24,6 +24,9 @@ A summary of resources regarding language modeling.
 - [ ] Blog - GPT2 - https://openai.com/blog/better-language-models/
 - [x] Blog - The illustrated GPT2 - http://jalammar.github.io/illustrated-gpt2/
 
+## LM General
+- [ ] Paper - Allow LMs to fill in the gap - https://arxiv.org/abs/2005.05339
+
 ## Corpora
 - [ ] Paper - BooksCorpus - https://arxiv.org/abs/1506.06724
 
