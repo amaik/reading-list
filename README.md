@@ -42,6 +42,7 @@ A summary of resources regarding language modeling.
 - [ ] Paper - Label smoothing - https://arxiv.org/abs/1512.00567
 - [ ] Paper - One model to learn them all (Task conditioning) - https://arxiv.org/abs/1706.05137
 - [ ] Paper - Shannon Entropy - https://arxiv.org/ftp/arxiv/papers/1405/1405.2061.pdf
+- [ ] Paper - Glove - (link)[https://nlp.stanford.edu/pubs/glove.pdf]
 
 ## Text Summarization
 - [ ] Paper - Sample Efficient Text Summarization Using a Single Pre-Trained Transformer - [link](https://arxiv.org/abs/1905.08836)
