@@ -27,6 +27,7 @@ A summary of resources regarding language modeling.
 ## LM General
 - [ ] Paper - Allow LMs to fill in the gap - https://arxiv.org/abs/2005.05339
 - [ ] Paper - Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism - [link](https://arxiv.org/abs/1909.08053)
+- [ ] Paper - 
 
 ## Corpora
 - [ ] Paper - BooksCorpus - https://arxiv.org/abs/1506.06724
@@ -36,6 +37,7 @@ A summary of resources regarding language modeling.
 - [ ] Blog - Various algorithms - https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46
 - [x] Paper - Byte-pair representation - https://arxiv.org/abs/1508.07909  
 - [ ] **Paper - Word-piece representation - https://arxiv.org/abs/1609.08144**
+- [ ] Paper - SentencePiece: A simple and language independent subword tokenizer - (link)[https://arxiv.org/abs/1808.06226]
 
 
 ## Machine Learning - General
@@ -47,6 +49,8 @@ A summary of resources regarding language modeling.
 - [ ] Paper - One model to learn them all (Task conditioning) - https://arxiv.org/abs/1706.05137
 - [ ] Paper - Shannon Entropy - https://arxiv.org/ftp/arxiv/papers/1405/1405.2061.pdf
 - [ ] Paper - Glove - (link)[https://nlp.stanford.edu/pubs/glove.pdf]
+- [ ] Paper - The Reversible Residual Network: Backpropagation Without Storing Activations - (link)[https://arxiv.org/abs/1707.04585]
+
 
 ## Topic Modelling
 - [ ] Paper - Topic modelling with Wasserstein Autoencoders - https://arxiv.org/abs/1907.12374
