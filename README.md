@@ -26,6 +26,7 @@ A summary of resources regarding language modeling.
 
 ## LM General
 - [ ] Paper - Allow LMs to fill in the gap - https://arxiv.org/abs/2005.05339
+- [ ] Paper - Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism - [link](https://arxiv.org/abs/1909.08053)
 
 ## Corpora
 - [ ] Paper - BooksCorpus - https://arxiv.org/abs/1506.06724
