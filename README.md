@@ -8,7 +8,7 @@ A summary of resources regarding language modeling.
 - [x] Blog - The illustrated transformer - https://jalammar.github.io/illustrated-transformer/
 - [x] Paper - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding - https://arxiv.org/abs/1810.04805
 - [ ] Paper - RoBERTa: A Robustly Optimized BERT Pretraining Approach - [link](https://arxiv.org/abs/1907.11692)
-- [ ] Paper - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations - [link](https://arxiv.org/abs/1909.11942) 
+- [x] Paper - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations - [link](https://arxiv.org/abs/1909.11942) 
 - [x] Blog - Visualized Bert/Elmo - http://jalammar.github.io/illustrated-bert/
 - [ ] Blog - BERT First time - http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
 - [ ] Notebook - Bert end-to-end - fine tuning - [link](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb#scrollTo=7wzwke0sxS6W)
