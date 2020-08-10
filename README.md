@@ -37,7 +37,7 @@ A summary of resources regarding language modeling.
 - [ ] Blog - Various algorithms - https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46
 - [x] Paper - Byte-pair representation - https://arxiv.org/abs/1508.07909  
 - [ ] **Paper - Word-piece representation - https://arxiv.org/abs/1609.08144**
-- [ ] Paper - SentencePiece: A simple and language independent subword tokenizer - (link)[https://arxiv.org/abs/1808.06226]
+- [x] Paper - SentencePiece: A simple and language independent subword tokenizer - (link)[https://arxiv.org/abs/1808.06226]
 
 
 ## Machine Learning - General
