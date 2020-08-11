@@ -44,7 +44,7 @@ A summary of resources regarding language modeling.
 - [ ] Paper - Convolutional s2s models(learned positional embeddings) - https://arxiv.org/abs/1705.03122
 - [ ] Paper - Layer normalization - https://arxiv.org/abs/1607.06450
 - [x] Paper - Adam: A Method for Stochastic Optimization - https://arxiv.org/abs/1412.6980
-- [ ] Paper - Dropout - http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf
+- [x] Paper - Dropout - http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf
 - [ ] Paper - Label smoothing - https://arxiv.org/abs/1512.00567
 - [ ] Paper - One model to learn them all (Task conditioning) - https://arxiv.org/abs/1706.05137
 - [ ] Paper - Shannon Entropy - https://arxiv.org/ftp/arxiv/papers/1405/1405.2061.pdf
