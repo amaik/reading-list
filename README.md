@@ -43,6 +43,7 @@ A summary of resources regarding language modeling.
 ## Machine Learning - General
 - [ ] Paper - Convolutional s2s models(learned positional embeddings) - https://arxiv.org/abs/1705.03122
 - [ ] Paper - Layer normalization - https://arxiv.org/abs/1607.06450
+- [ ] Paper - Batch normalization - https://arxiv.org/abs/1502.03167
 - [x] Paper - Adam: A Method for Stochastic Optimization - https://arxiv.org/abs/1412.6980
 - [x] Paper - Dropout - http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf
 - [ ] Paper - Label smoothing - https://arxiv.org/abs/1512.00567
