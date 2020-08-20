@@ -1,20 +1,21 @@
-# LM-resources
-A summary of resources regarding language modeling.
+# Reading List
+My personal reading list.
 
 ## Transformer
 ### Transformer
-- [x] Paper - Attention is all you need - https://arxiv.org/abs/1706.03762  
-- [ ] Blog - The annotated transformer - https://nlp.seas.harvard.edu/2018/04/03/attention.html
-- [x] Blog - The illustrated transformer - https://jalammar.github.io/illustrated-transformer/
-- [x] Paper - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding - https://arxiv.org/abs/1810.04805
+- [x] Paper - Attention is all you need - [link](https://arxiv.org/abs/1706.03762)
+- [x] Paper - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding - [link](https://arxiv.org/abs/1810.04805)
 - [ ] Paper - RoBERTa: A Robustly Optimized BERT Pretraining Approach - [link](https://arxiv.org/abs/1907.11692)
-- [x] Paper - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations - [link](https://arxiv.org/abs/1909.11942) 
-- [x] Blog - Visualized Bert/Elmo - http://jalammar.github.io/illustrated-bert/
-- [ ] Blog - BERT First time - http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
+- [x] Paper - ALBERT: A Lite BERT for Self-supervised Learning of Language Representations - [link](https://arxiv.org/abs/1909.11942)
+- [ ] Paper - Music Transformer - [link](https://arxiv.org/pdf/1809.04281.pdf)
+- [x] Paper - TransformerXL - [link](https://arxiv.org/abs/1901.02860)
+- [ ] Paper - XLNet - [link](https://arxiv.org/abs/1906.08237)
+- [ ] Blog - The annotated transformer - [link](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+- [x] Blog - The illustrated transformer - [link](https://jalammar.github.io/illustrated-transformer/)
+- [x] Blog - Visualized Bert/Elmo - [link](http://jalammar.github.io/illustrated-bert/)
+- [ ] Blog - BERT First time - [link](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
 - [ ] Notebook - Bert end-to-end - fine tuning - [link](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb#scrollTo=7wzwke0sxS6W)
-- [ ] Paper - Music Transformer - https://arxiv.org/pdf/1809.04281.pdf
-- [x] Paper - TransformerXL - https://arxiv.org/abs/1901.02860
-- [ ] Paper - XLNet - https://arxiv.org/abs/1906.08237
+
 
 ### GPT2/3
 - [ ] Paper - GPT1 - https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
