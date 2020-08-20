@@ -18,50 +18,50 @@ My personal reading list.
 
 
 ### GPT2/3
-- [ ] Paper - GPT1 - https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
-- [x] Paper - GPT2 - https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
-- [ ] Paper - GPT3 - https://arxiv.org/abs/2005.14165
-- [x] Blog - GPT1 - https://openai.com/blog/language-unsupervised/
-- [x] Blog - GPT2 - https://openai.com/blog/better-language-models/
-- [x] Blog - The illustrated GPT2 - http://jalammar.github.io/illustrated-gpt2/
+- [ ] Paper - GPT1 - [link](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- [x] Paper - GPT2 - [link](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+- [ ] Paper - GPT3 - [link](https://arxiv.org/abs/2005.14165)
+- [x] Blog - GPT1 - [link](https://openai.com/blog/language-unsupervised/)
+- [x] Blog - GPT2 - [link](https://openai.com/blog/better-language-models/)
+- [x] Blog - The illustrated GPT2 - [link](http://jalammar.github.io/illustrated-gpt2/)
 
 ## LM General
-- [ ] Paper - Allow LMs to fill in the gap - https://arxiv.org/abs/2005.05339
+- [ ] Paper - Allow LMs to fill in the gap - [link](https://arxiv.org/abs/2005.05339)
 - [ ] Paper - Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism - [link](https://arxiv.org/abs/1909.08053)
 
 ## Corpora
-- [ ] Paper - BooksCorpus - https://arxiv.org/abs/1506.06724
+- [ ] Paper - BooksCorpus - [link](https://arxiv.org/abs/1506.06724)
 
 ## Tokenization
 ### Subword modelling
-- [ ] Blog - Various algorithms - https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46
-- [x] Paper - Byte-pair representation - https://arxiv.org/abs/1508.07909  
-- [ ] **Paper - Word-piece representation - https://arxiv.org/abs/1609.08144**
+- [ ] Blog - Various algorithms - [link](https://medium.com/@makcedward/how-subword-helps-on-your-nlp-model-83dd1b836f46)
+- [x] Paper - Byte-pair representation - [link](https://arxiv.org/abs/1508.07909  )
+- [ ] **Paper - Word-piece representation - [link](https://arxiv.org/abs/1609.08144)**
 - [x] Paper - SentencePiece: A simple and language independent subword tokenizer - [link](https://arxiv.org/abs/1808.06226)
 
 ## Representation
 - [ ] Paper - ConveRT: Efficient and Accurate Conversational Representations from Transformers - [link](https://arxiv.org/abs/1911.03688)
-- [ ] Paper - Glove - (link)[https://nlp.stanford.edu/pubs/glove.pdf]
+- [ ] Paper - Glove - [link](https://nlp.stanford.edu/pubs/glove.pdf)
 
 
 ## Machine Learning - General
-- [ ] Paper - Convolutional s2s models(learned positional embeddings) - https://arxiv.org/abs/1705.03122
-- [ ] Paper - Layer normalization - https://arxiv.org/abs/1607.06450
-- [ ] Paper - Batch normalization - https://arxiv.org/abs/1502.03167
-- [x] Paper - Adam: A Method for Stochastic Optimization - https://arxiv.org/abs/1412.6980
-- [x] Paper - Dropout - http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf
-- [ ] Paper - Label smoothing - https://arxiv.org/abs/1512.00567
-- [ ] Paper - One model to learn them all (Task conditioning) - https://arxiv.org/abs/1706.05137
-- [ ] Paper - Shannon Entropy - https://arxiv.org/ftp/arxiv/papers/1405/1405.2061.pdf
+- [ ] Paper - Convolutional s2s models(learned positional embeddings) - [link](https://arxiv.org/abs/1705.03122)
+- [ ] Paper - Layer normalization - [link](https://arxiv.org/abs/1607.06450)
+- [ ] Paper - Batch normalization - [link](https://arxiv.org/abs/1502.03167)
+- [x] Paper - Adam: A Method for Stochastic Optimization - [link](https://arxiv.org/abs/1412.6980)
+- [x] Paper - Dropout - [link](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
+- [ ] Paper - Label smoothing - [link](https://arxiv.org/abs/1512.00567)
+- [ ] Paper - One model to learn them all (Task conditioning) - [link](https://arxiv.org/abs/1706.05137)
+- [ ] Paper - Shannon Entropy - [link](https://arxiv.org/ftp/arxiv/papers/1405/1405.2061.pdf)
 - [ ] Paper - The Reversible Residual Network: Backpropagation Without Storing Activations - [link](https://arxiv.org/abs/1707.04585)
 
 
 ## Topic Modelling
-- [ ] Paper - Topic modelling with Wasserstein Autoencoders - https://arxiv.org/abs/1907.12374
+- [ ] Paper - Topic modelling with Wasserstein Autoencoders - [link](https://arxiv.org/abs/1907.12374)
 
 ## Text Summarization
 - [ ] Paper - Sample Efficient Text Summarization Using a Single Pre-Trained Transformer - [link](https://arxiv.org/abs/1905.08836)
 
 
 ## Misc
-- [x] Website - Summary of papers with code. Leaderboard of benchmarks. - https://paperswithcode.com/task/language-modelling
+- [x] Website - Summary of papers with code. Leaderboard of benchmarks. - [link](https://paperswithcode.com/task/language-modelling)
