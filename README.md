@@ -67,3 +67,4 @@ My personal reading list.
 
 ## Misc
 - [x] Website - Summary of papers with code. Leaderboard of benchmarks. - [link](https://paperswithcode.com/task/language-modelling)
+- [ ] Paper - Conditional Random Fields - [link](https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
