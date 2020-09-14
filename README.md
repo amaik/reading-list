@@ -55,6 +55,7 @@ My personal reading list.
 - [ ] Paper - Shannon Entropy - [link](https://arxiv.org/ftp/arxiv/papers/1405/1405.2061.pdf)
 - [ ] Paper - The Reversible Residual Network: Backpropagation Without Storing Activations - [link](https://arxiv.org/abs/1707.04585)
 - [ ] Paper - Weight Normalization - [link](https://arxiv.org/abs/1602.07868)
+- [ ] Paper - TabNet - [link](https://arxiv.org/abs/1908.07442)
 
 
 ## Topic Modelling
