@@ -56,6 +56,7 @@ My personal reading list.
 - [ ] Paper - The Reversible Residual Network: Backpropagation Without Storing Activations - [link](https://arxiv.org/abs/1707.04585)
 - [ ] Paper - Weight Normalization - [link](https://arxiv.org/abs/1602.07868)
 - [ ] Paper - TabNet - [link](https://arxiv.org/abs/1908.07442)
+- [ ] Paper - Lookahead - [link](https://arxiv.org/abs/1907.08610v1)
 
 
 ## Topic Modelling
