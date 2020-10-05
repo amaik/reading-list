@@ -57,6 +57,7 @@ My personal reading list.
 - [ ] Paper - Weight Normalization - [link](https://arxiv.org/abs/1602.07868)
 - [ ] Paper - TabNet - [link](https://arxiv.org/abs/1908.07442)
 - [ ] Paper - Lookahead - [link](https://arxiv.org/abs/1907.08610v1)
+- [ ] Paper - Knowledge Graph Embeddings and Explainable AI - [link](https://arxiv.org/abs/2004.14843)
 
 
 ## Topic Modelling
