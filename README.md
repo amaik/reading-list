@@ -58,6 +58,7 @@ My personal reading list.
 - [ ] Paper - TabNet - [link](https://arxiv.org/abs/1908.07442)
 - [ ] Paper - Lookahead - [link](https://arxiv.org/abs/1907.08610v1)
 - [ ] Paper - Knowledge Graph Embeddings and Explainable AI - [link](https://arxiv.org/abs/2004.14843)
+- [ ] Paper - TreeLSTM - [link](https://arxiv.org/pdf/1503.00075.pdf)
 
 
 ## Topic Modelling
