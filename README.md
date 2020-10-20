@@ -60,6 +60,9 @@ My personal reading list.
 - [ ] Paper - Knowledge Graph Embeddings and Explainable AI - [link](https://arxiv.org/abs/2004.14843)
 - [ ] Paper - TreeLSTM - [link](https://arxiv.org/pdf/1503.00075.pdf)
 
+## Graph Neural Networks
+- [] Paper - Neural Message Passing for Quantum Chemistry - [link](https://arxiv.org/abs/1704.01212)
+
 
 ## Topic Modelling
 - [ ] Paper - Topic modelling with Wasserstein Autoencoders - [link](https://arxiv.org/abs/1907.12374)
